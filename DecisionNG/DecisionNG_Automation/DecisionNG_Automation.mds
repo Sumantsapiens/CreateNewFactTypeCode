@@ -188,7 +188,7 @@
 											<testItem name="Import Glossary XML Verification" key="{878792FF-453F-456A-B6EA-90B5A1D99862}" group="True" enabled="True" testMoniker="" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
 												<testParameters />
 												<children>
-													<testItem name="Login_5" key="{8E399E04-E177-4088-9E66-70B456B89B3B}" group="False" enabled="True" testMoniker="KDT\{91271AA2-ED5D-4C3C-BC1C-8246AB9EF8A1}" count="1" timeout="0" stopOnError="0" stopOnException="2" description="" tmsData="" testCase="True">
+													<testItem name="Login_5" key="{8E399E04-E177-4088-9E66-70B456B89B3B}" group="False" enabled="True" testMoniker="KDT\{91271AA2-ED5D-4C3C-BC1C-8246AB9EF8A1}" count="1" timeout="0" stopOnError="1" stopOnException="2" description="" tmsData="" testCase="True">
 														<testParameters>
 															<param0 name="URL" type="1" localVarName="" value="http://bdmsuat8:8854/login.jsp" />
 															<param1 name="UserName" type="1" localVarName="" value="Vars" />
@@ -196,11 +196,11 @@
 														</testParameters>
 														<children />
 													</testItem>
-													<testItem name="Navigate_To_Repository" key="{9838047F-9685-4C17-9873-29082504A192}" group="False" enabled="True" testMoniker="KDT\{CB95AFFC-55DC-49F7-81A1-636D08FEC4CE}" count="1" timeout="0" stopOnError="0" stopOnException="2" description="" tmsData="" testCase="True">
+													<testItem name="Navigate_To_Repository" key="{9838047F-9685-4C17-9873-29082504A192}" group="False" enabled="True" testMoniker="KDT\{CB95AFFC-55DC-49F7-81A1-636D08FEC4CE}" count="1" timeout="0" stopOnError="1" stopOnException="2" description="" tmsData="" testCase="True">
 														<testParameters />
 														<children />
 													</testItem>
-													<testItem name="Import_Glossary_Verification" key="{FB11394E-F2A6-4BE0-855D-A91902E8E45A}" group="False" enabled="True" testMoniker="KDT\{393E21B7-120B-43C6-92C2-0D7655062D45}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+													<testItem name="Import_Glossary_Verification" key="{FB11394E-F2A6-4BE0-855D-A91902E8E45A}" group="False" enabled="True" testMoniker="KDT\{393E21B7-120B-43C6-92C2-0D7655062D45}" count="1" timeout="0" stopOnError="1" stopOnException="2" description="" tmsData="" testCase="True">
 														<testParameters />
 														<children />
 													</testItem>
